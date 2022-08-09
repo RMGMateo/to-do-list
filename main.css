@@ -40,6 +40,9 @@ header {
 }
 #new-task-form {
 	display: flex;;
+
+
+	
 }
 input, button {
 	appearance: none;
